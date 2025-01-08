@@ -22,7 +22,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello MIcroverse!] <a name="about-project"></a>
+# 📖Hello MIcroverse! <a name="about-project"></a>
 
 Hello MIcroverse is a simple project to test whether I have installed and understood all the mandatory requirements needed to start any project moving forward.
 
@@ -54,11 +54,9 @@ In order to run this project you need to have:
 - A web browser (e.g Chrome, Safari, Mozilla Firefox.)
 - Live Server which is a web extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASPNET)n. 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 Brendah Warigia
 
@@ -68,16 +66,11 @@ In order to run this project you need to have:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## ⭐️ Show your support <a name="support"></a>
 
