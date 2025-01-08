@@ -1,7 +1,5 @@
-<h3><b>Hello Microverse!</b></h3>
-
+# <h3><b>Hello Microverse!</b></h3>
 # 📗 Table of Contents
-
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
@@ -32,9 +30,7 @@ Hello MIcroverse is a simple project to test whether I have installed and unders
 
 Hello Microverse has been built with plain HTML and CSS.
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-### Prerequisites
+## Prerequisites
 
 In order to run this project you need:
 
@@ -44,7 +40,7 @@ To spin up your application, follow this simple steps and you will be good to go
 - Open the terminal in while in this directory.
 - Run npm install to install the dev dependencies for linters.
 
-### Install
+## Install
 
 Install this project with:
 
