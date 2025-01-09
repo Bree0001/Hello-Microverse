@@ -4,16 +4,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
+  - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -34,20 +30,20 @@ Hello Microverse has been built with plain HTML and CSS.
 + Git: This is a version control system used for source code management.
 + A text editor (e.g Visual Studio Code (recommended), Sublime Text, Atom etc.)
 + Live Server: A web extension utility for Visual Studio Code that helps you live reload feature for dynamic pages.
-### Setup
+## Setup
 + Use git to clone the code to your PC.
 + Run this code:
   > gh repo clone Bree0001/Hello-Microverse
-### Install
-+ Open your code in your code editor
+## Install
+Open your code in your code editor
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-### Usage
+## Usage
 To run the code, open live server in your code editor.
 ## 👥 Authors <a name="authors"></a>
-👤 Brendah Warigia
-- GitHub: [@Bree0001](https://github.com/Bree0001)
-- Twitter: [[@bree_warigia](https://twitter.com/bree_warigia))
-- LinkedIn: [Brendah Warigia](https://linkedin.com/in/warigiabrendah1)
+👤Brendah Warigia
++ GitHub: [@Bree0001](https://github.com/Bree0001)
++ Twitter: [[@bree_warigia](https://twitter.com/bree_warigia))
++ LinkedIn: [Brendah Warigia](https://linkedin.com/in/warigiabrendah1)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🤝 Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
@@ -56,7 +52,7 @@ Contributions, issues, and feature requests are welcome!
 If you like this project, please feel free to send me a message to any of my social media handles.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Shaquille Ndunda and Grace Muthui, my tech mentors and Edna Guantai my collaborative partner.
+I would like to thank Shaquille Ndunda and Grace Muthui, my tech mentors and Edna Guantai, my collaborative partner.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📝 License <a name="license"></a>
 This project is [MIT](./LICENSE) licensed.
